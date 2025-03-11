@@ -13,6 +13,6 @@
 - ⚡ **趣味**： [从现在开始努力，一切都来得及]
 
 ## 统计与徽章
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duanxinyua&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duanxinyua&show_icons=true&theme=dark)](https://github.com/duanxinyua)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=duanxinyua&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/duanxinyua)
