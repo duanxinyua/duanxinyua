@@ -10,7 +10,7 @@
 ## 关于我
 - 🌱 **目前学习**： [PHP，Linux，等开发技术]
 - 💬 **联系我**： [duanxinyua@gmail.com](mailto:duanxinyua@gmail.com) 或 [Twitter](https://x.com/vt4pT5J9CIB9uhC)
-- ⚡ **趣味**： [从现在开始努力，一切都来得及]
+- ⚡ **格言**： [从现在开始努力，一切都来得及]
 
 ## 统计与徽章
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duanxinyua&show_icons=true&theme=dark)](https://github.com/duanxinyua)
