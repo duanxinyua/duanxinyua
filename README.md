@@ -11,7 +11,7 @@
 - ⚡ **格言**： [从现在开始努力，一切都来得及]
 
 ## 🚀 精选项目
-- **[WitchPoison](https://github.com/duanxinyua/WitchPoison)**：一个创意十足的开源项目，探索毒药配方的算法与可视化，融合了趣味与技术。
+- **[女巫的毒药](https://github.com/duanxinyua/WitchPoison)**：一个创意十足的开源项目，探索毒药配方的算法与可视化，融合了趣味与技术。
 
 
 ## 统计与徽章
