@@ -12,9 +12,3 @@
 
 ## 🚀 精选项目
 - **[女巫的毒药](https://github.com/duanxinyua/WitchPoison)**：一个创意十足的开源项目，探索毒药配方的算法与可视化，融合了趣味与技术。
-
-
-## 统计与徽章
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duanxinyua&show_icons=true&theme=dark)](https://github.com/duanxinyua)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=duanxinyua&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/duanxinyua)
