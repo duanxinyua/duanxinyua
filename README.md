@@ -1,4 +1,4 @@
-# 核桃
+﻿# 核桃
 
 ## Hello，我是核桃。我热衷于探索技术前沿，并喜欢通过编码解决实际问题。
 
@@ -36,4 +36,4 @@
 
 ## 📈 GitHub 统计
 
-![核桃's GitHub stats](https://github-readme-stats.weijunext.com/api?username=duanxinyua&show_icons=true&theme=radium)
+![核桃's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanxinyua&show_icons=true&theme=radical&locale=zh-CN)
