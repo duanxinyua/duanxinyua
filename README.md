@@ -36,4 +36,4 @@
 
 ## 📈 GitHub 统计
 
-![核桃's GitHub stats](https://github-readme-stats.siwei.dev/api?username=duanxinyua&show_icons=true&theme=radium)
+![核桃's GitHub stats](https://github-readme-stats.weijunext.com/api?username=duanxinyua&show_icons=true&theme=radium)
