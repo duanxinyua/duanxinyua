@@ -34,6 +34,3 @@
 - **运维与部署:** Linux 环境高可用部署与性能调优
 - **其他技术:** WebSocket (实时通信), 媒体处理 (EXIF提取, GD库图像处理)
 
-## 📈 GitHub 统计
-
-![核桃's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanxinyua&show_icons=true&theme=radical&locale=zh-CN)
